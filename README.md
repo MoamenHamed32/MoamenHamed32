@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3 align="center">Front-End Web Developer with High Vision and Forward-Thinking. Innovative use of Technology, Effective Problem Solving Skills, Outstanding Interpersonal Skills with ability to work independently as well as Within a team environment </h3>
 
-<h3 align="center"><a href="https://portfolio-itko.vercel.app/" target="_blank">Portfolio</a></h3>
+<h3 align="center" color><a href="https://portfolio-itko.vercel.app/" target="_blank" rel="noreferrer">My Portfolio</a></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
